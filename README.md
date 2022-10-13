@@ -39,6 +39,6 @@ https://chromedriver.chromium.org/downloads
 3. Summarize the text by pegasus
 4. Image captioning by flax
 5. Concatenate the Summarized text with image captions
-
+6. Perform text summarization on the concatenated text
 
 
